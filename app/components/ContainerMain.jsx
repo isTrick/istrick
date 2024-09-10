@@ -1,5 +1,6 @@
 import Contact from './ButtonContact.jsx';
 import ImageProfile from './ImageProfile.jsx';
+import ImageLogos from './ImageLogos.jsx'
 
 export default function Main() {
   return (
@@ -14,6 +15,7 @@ export default function Main() {
         Meu principal diferencial está no conhecimento sobre Docker, Linux e
         Shell Scripting.
       </p>
+      <ImageLogos />
       <Contact />
     </main>
   );
