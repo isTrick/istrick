@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 export default function ImageLogos() {
   return (
-    <div className='flex flex-row gap-4'>
+    <div className='flex flex-row items-center justify-center gap-4 flex-wrap'>
         <Image
         src="/tailwind.svg"
         alt="Tailwind CSS logo"
