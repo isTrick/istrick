@@ -39,6 +39,7 @@ export default function Page() {
       <div className={`${widgetStyle} row-span-3 flex flex-col`}>
         <h2 className="text-xl font-semibold">My experience</h2>
         <p className="text-neutral-300 mb-3">What I've done in my jobs so far</p>
+        <p>- Next.js connection with databases</p>
       </div>
       <div className={`${widgetStyle} row-span-3 flex flex-col`}>
         <h2 className="text-xl font-semibold">Portfólio</h2>
