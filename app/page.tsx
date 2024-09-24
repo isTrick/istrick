@@ -11,7 +11,7 @@ import {
 
 export default function Page() {
   const widgetStyle =
-    "flex items-center justify-center w-fit h-fit bg-neutral-900 border border-neutral-600 rounded-lg p-3 m-3 text-neutral-50 w-full h-full";
+    "flex items-center justify-center w-fit h-fit bg-neutral-900 border border-neutral-600 rounded-lg p-3 text-neutral-50 w-full h-full";
   const linkStyle =
     "rounded-md border border-neutral-700 flex items-center justify-center h-10 w-10 text-neutral-100";
 
